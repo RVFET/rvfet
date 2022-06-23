@@ -1,0 +1,86 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.wrapper {
+                    width: 100%;
+                    height: 100%;
+                    background: #242424;
+                    padding: 10px;
+                }
+
+                .container {
+                    background: #151515;
+                    color: #EEEEEE;
+                    font-family: system-ui, sans-serif;
+                    padding: 20px;
+                    margin-bottom: 20px;
+                    border-radius: 10px;
+                }
+
+                .icons {
+                    padding: 10px 0 0 0;
+                    margin: 0;
+                    display: grid;
+                    grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
+                    width: 100%;
+                }
+
+                .icons > a {
+                    width: 50px;
+                    height: 50px;
+                    padding: 10px;
+                    background: #363636;
+                    margin: 10px 0;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    border-radius: 10px;
+                    border: 2px solid transparent;
+                    transition: all 0.15s ease;
+                }
+
+                .icons > a:hover {
+                    border: 2px solid #FFC71F;
+                    transform: translatey(-10px);
+                    box-shadow: 0 10px 30px rgba(255,199,31,0.2);
+                }
+
+                .icons > a > img {
+                    object-fit: contain;
+                    position: relative;
+                    filter: invert(1);
+                }
+
+                .stats-container {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    gap: 10px;
+                }
+
+                .stats-container > img {
+                    flex: 1;
+                    flex-shrink: 0;
+                    width: 50%;
+                    cursor: zoom-in;
+                    transition: all 0.15s ease;
+                }
+
+                .stats-container > img:nth-child(1):hover {
+                    transform: scale(1.5) translate(25%, -25%);
+                }
+
+                .stats-container > img:nth-child(2):hover {
+                    transform: scale(1.5) translate(-25%, -25%);
+                }
+			</style>
+			<div class="wrapper">
+                <div class="stats-container">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rvfet&amp;show_icons=true&amp;theme=dark&amp;locale=en" alt="rvfet" />
+                    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rvfet&amp;theme=dark" alt="rvfet" />
+                </div>
+            </div>
+		</div>
+	</foreignObject>
+</svg>
