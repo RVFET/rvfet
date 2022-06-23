@@ -40,4 +40,4 @@
 
 
 
-<img src="STATS.svg">
+<img src="stats.svg">
