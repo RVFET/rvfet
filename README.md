@@ -6,8 +6,9 @@
 
 <hr/>
 
-<p>*Some of the programming languages and tools that I have strong background on</p>
-
-[![Programming Languages and tools that I have strong background on](https://skillicons.dev/icons?i=mongodb,express,react,materialui,nodejs,python,django,postgres,figma,ps,cs,git,ai,js,nginx,cloudflare,&perline=8)](https://rvfet.com)
+<p align="center">
+  *Some of the programming languages and tools that I have strong background on
+  [![Programming Languages and tools that I have strong background on](https://skillicons.dev/icons?i=mongodb,express,react,materialui,nodejs,python,django,postgres,figma,ps,cs,git,ai,js,nginx,cloudflare,&perline=8)](https://rvfet.com)
+</p>
 
 <p align="center">Note: All my repositories are private.</p>
