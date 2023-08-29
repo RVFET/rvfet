@@ -4,10 +4,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rvfet&label=Profile%20page%20views%20&color=ff9619&style=modern" alt="rvfet" /> </p>
 
-<h3>ALL MY REPOSITORIES ARE PRIVATE</h3>
-
 <hr/>
 
 <p>*Some of the programming languages and tools that I have strong background on</p>
 
 [![Programming Languages and tools that I have strong background on](https://skillicons.dev/icons?i=mongodb,express,react,materialui,nodejs,python,django,postgres,figma,ps,cs,git,ai,js,nginx,cloudflare,&perline=8)](https://rvfet.com)
+
+<p align="center">Note: All my repositories are private.</p>
