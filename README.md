@@ -4,11 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rvfet&label=Profile%20page%20views%20&color=ff9619&style=modern" alt="rvfet" /> </p>
 
-- 🔭 I’m currently working on [UdemyFree V2](https://udemyfree.net)
-
-- 📫 Contact me at **me@rvfet.com**
-
-- 📄 My Resume [Resume 2023 (GDrive)](https://drive.google.com/file/d/1tpnAZZtjp1e1EUOxW4ibIY-bGEjPIPat/view)
+<h3>ALL MY REPOSITORIES ARE PRIVATE</h3>
 
 <hr/>
 
