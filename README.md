@@ -8,6 +8,9 @@
   <a href="https://rvfet.com" target="_blank" align=center>
     <img src="https://komarev.com/ghpvc/?username=rvfet&label=Profile%20page%20views%20&color=ff9619&style=modern" alt="rvfet" />
   </a>
+  <a href="https://user-badge.committers.top/azerbaijan/RVFET">
+    <img src="https://custom-icon-badges.demolab.com/badge/Ranked%20contributor%20in%20Azerbaijan-1st-green.svg?logo=trophy&logoColor=white" />
+  </a>
 </p>
 
 <hr/>
