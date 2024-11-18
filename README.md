@@ -1,7 +1,21 @@
 <!-- HEADER & GREETING AREA -->
-<h1 align="center"><i>Hi there, <b>RVFET</b> here!</i></h1>
-<h3 align="center">👨‍💻 Full stack web & software developer.</h3>
-<p align="center">*Former <a href="https://open.spotify.com/artist/0c6s48IbDtvmKTPVyydl2x">music producer</a> & <a href="https://www.behance.net/rvfet">graphic designer</a>.</p>
+<h1 align="center">
+  <img height="22px" src="./assets/logo.svg" />  Hi there, <b>RVFET</b> here.
+</h1>
+<h3 align="center">
+  <code>👨‍💻 Software Developer</code>
+  &
+  <code>🪲 Security Researcher</code>.
+</h3>
+
+<!-- FORMER ROLES -->
+<p align="center">
+  *Former <a href="https://open.spotify.com/artist/0c6s48IbDtvmKTPVyydl2x">music producer</a>
+  &
+  <a href="https://www.behance.net/rvfet">graphic designer</a>.
+</p>
+
+<!-- PROFILE STATS -->
 <p align="center">
   <a href="https://rvfet.com" target="_blank" align="center">
     <img src="https://komarev.com/ghpvc/?username=rvfet&label=Profile%20page%20views%20&color=orange&style=modern" alt="rvfet" />
@@ -13,7 +27,7 @@
 
 <hr/>
 
-<!-- GENERAL STATS -->
+<!-- DEV STATS -->
 <p align="center">
   <a href="https://rvfet.com" target="_blank" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rvfet&show_icons=true&theme=dark&locale=en&hide_border=true&bg_color=00000000" alt="RVFET's Github activity" />
@@ -37,8 +51,10 @@
 </p>
 
 <!-- THROPIES -->
+<!-- DISABLED FOR NOW.
 <p align="center">
   <a href="https://rvfet.com" target="_blank" align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=rvfet&theme=alduin&no-bg=true&no-frame=true&row=1&column=6" alt="Github Trophies" />
   </a>
 </p>
+-->
