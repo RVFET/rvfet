@@ -8,7 +8,7 @@
   <path
     d="M2 73V2H73V26.924H49.7088H44.8803L48.2946 30.3382L73 55.0436V73H55.0436L30.3382 48.2946L26.924 44.8803V49.7088V73H2"
     stroke="white"
-    stroke-width="12"
+    stroke-width="4"
     stroke-dasharray="365"
   >
     <animate
