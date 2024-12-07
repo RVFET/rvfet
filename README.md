@@ -1,18 +1,16 @@
 <!-- HEADER & GREETING AREA -->
 <h1 align="center">
-  <img height="22px" src="./assets/logo.svg" />  Hi there, <b>RVFET</b> here.
+  Hi there, <b><img height="22px" src="./assets/logo.svg" alt="R" />VFET</b> here.
 </h1>
-<h3 align="center">
-  <code>👨‍💻 Software Developer</code>
-  &
-  <code>🪲 Security Researcher</code>.
-</h3>
+<h4 align="center">
+  <code>👨‍💻&nbsp;Software&nbsp;Developer</code> & <code>🪲&nbsp;Security&nbsp;Researcher</code>.
+</h4>
 
 <!-- FORMER ROLES -->
 <p align="center">
-  *Former <a href="https://open.spotify.com/artist/0c6s48IbDtvmKTPVyydl2x">music producer</a>
+  *Former <a href="https://open.spotify.com/artist/0c6s48IbDtvmKTPVyydl2x"><code>🎧&nbsp;music producer</a></code>
   &
-  <a href="https://www.behance.net/rvfet">graphic designer</a>.
+  <a href="https://www.behance.net/rvfet"><code>🎨&nbsp;graphic designer</a></code>
 </p>
 
 <!-- PROFILE STATS -->
@@ -25,37 +23,34 @@
   </a>
 </p>
 
-<hr/>
-
-<!-- SPOTIFY -->
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t9bi8sz1n6jwr511kwdftvhxl&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false" />
-</p>
-
-<!-- DEV STATS -->
-<!--<p align="center">
-  <a href="https://rvfet.com" target="_blank" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rvfet&show_icons=true&theme=dark&locale=en&hide_border=true&bg_color=00000000" alt="RVFET's Github activity" />
-  </a>
-</p>
--->
-
 <!-- LANGUAGES & TOOLS -->
-<h3 align="center">Tools, langs & frameworks</h3>
-<br/>
+<!-- <h4 align="center">Tools, langs & frameworks</h4>
 <p align="center">
   <a href="https://rvfet.com" target="_blank" align="center">
     <img src="https://skillicons.dev/icons?i=debian,go,python,js,nodejs,react,svelte,django,mongodb,elasticsearch,postgres,bash,figma,git,nginx,cloudflare&perline=8&theme=dark" alt="programming languages and tools that I have strong background on" />
   </a>
 </p>
+-->
 
-<!-- WAKATIME -->
+<h2 align="center">Statistics</h2>
+
+<!-- DEV STATS -->
+<p align="center">
+  <a href="https://rvfet.com" target="_blank" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rvfet&show_icons=true&theme=dark&locale=en&hide_border=true&bg_color=00000000" alt="RVFET's Github activity" />
+  </a>
+  <br />
+  <a href="https://rvfet.com" target="_blank" align="center">
+    <img src="https://streak-stats.demolab.com?user=rvfet&theme=dark&hide_border=true&mode=weekly&background=00000000" alt="RVFET's Github activity" />
+  </a>
+</p>
+
+<!-- WAKATIME STATS -->
 <p align="center">
   <a href="https://rvfet.com" target="_blank" align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rvfet&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="RVFET's coding activities" />
   </a>
 </p>
-
 <!-- THROPIES -->
 <!-- DISABLED FOR NOW.
 <p align="center">
