@@ -8,6 +8,11 @@
   <code>🪲 Security Researcher</code>.
 </h3>
 
+<!-- SPOTIFY -->
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t9bi8sz1n6jwr511kwdftvhxl&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false" />
+</p>
+
 <!-- FORMER ROLES -->
 <p align="center">
   *Former <a href="https://open.spotify.com/artist/0c6s48IbDtvmKTPVyydl2x">music producer</a>
@@ -18,7 +23,7 @@
 <!-- PROFILE STATS -->
 <p align="center">
   <a href="https://rvfet.com" target="_blank" align="center">
-    <img src="https://komarev.com/ghpvc/?username=rvfet&label=Profile%20page%20views%20&color=orange&style=modern" alt="rvfet" />
+    <img src="https://komarev.com/ghpvc/?username=rvfet&label=Profile%20views%20%20since%202019&color=orange&style=modern" />
   </a>
   <a href="https://user-badge.committers.top/azerbaijan/RVFET" target="_blank" align="center">
     <img src="https://custom-icon-badges.demolab.com/badge/Most%20contributions%20in%20Azerbaijan-1st-darkgreen.svg?logo=trophy&logoColor=white" />
