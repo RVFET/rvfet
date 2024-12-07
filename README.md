@@ -8,11 +8,6 @@
   <code>🪲 Security Researcher</code>.
 </h3>
 
-<!-- SPOTIFY -->
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t9bi8sz1n6jwr511kwdftvhxl&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false" />
-</p>
-
 <!-- FORMER ROLES -->
 <p align="center">
   *Former <a href="https://open.spotify.com/artist/0c6s48IbDtvmKTPVyydl2x">music producer</a>
@@ -32,12 +27,18 @@
 
 <hr/>
 
-<!-- DEV STATS -->
+<!-- SPOTIFY -->
 <p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t9bi8sz1n6jwr511kwdftvhxl&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false" />
+</p>
+
+<!-- DEV STATS -->
+<!--<p align="center">
   <a href="https://rvfet.com" target="_blank" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rvfet&show_icons=true&theme=dark&locale=en&hide_border=true&bg_color=00000000" alt="RVFET's Github activity" />
   </a>
 </p>
+-->
 
 <!-- LANGUAGES & TOOLS -->
 <h3 align="center">Tools, langs & frameworks</h3>
