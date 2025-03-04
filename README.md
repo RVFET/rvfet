@@ -1,6 +1,6 @@
 <!-- HEADER & GREETING AREA -->
 <h1 align="center">
-  Hi there, <b><img height="22px" src="./assets/logo.svg" alt="R" />VFET</b> here.
+  Hi there, <b><img height="22.5px" src="./assets/logo.svg" alt="R" />&#8202;VFET</b> here.
 </h1>
 <h4 align="center">
   <code>👨‍💻&nbsp;Software&nbsp;Developer</code> & <code>🪲&nbsp;Security&nbsp;Researcher</code>.
@@ -24,38 +24,34 @@
 </p>
 
 <!-- LANGUAGES & TOOLS -->
-<!-- <h4 align="center">Tools, langs & frameworks</h4>
+<h2 align="center">Tools, langs & frameworks</h2>
+<br/>
 <p align="center">
   <a href="https://rvfet.com" target="_blank" align="center">
-    <img src="https://skillicons.dev/icons?i=debian,go,python,js,nodejs,react,svelte,django,mongodb,elasticsearch,postgres,bash,figma,git,nginx,cloudflare&perline=8&theme=dark" alt="programming languages and tools that I have strong background on" />
+    <img src="https://skillicons.dev/icons?i=debian,go,python,rust,js,react,svelte,mongodb,rabbitmq,redis,elasticsearch,postgres,bash,figma,git,cloudflare&perline=8&theme=dark" alt="programming languages and tools that I have strong background on" />
   </a>
 </p>
--->
 
 <h2 align="center">Statistics</h2>
-
 <!-- DEV STATS -->
 <p align="center">
   <a href="https://rvfet.com" target="_blank" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rvfet&show_icons=true&theme=dark&locale=en&hide_border=true&bg_color=00000000" alt="RVFET's Github activity" />
   </a>
-  <br />
-  <a href="https://rvfet.com" target="_blank" align="center">
-    <img src="https://streak-stats.demolab.com?user=rvfet&theme=dark&hide_border=true&mode=weekly&background=00000000" alt="RVFET's Github activity" />
-  </a>
 </p>
 
-<!-- WAKATIME STATS -->
-<p align="center">
-  <a href="https://rvfet.com" target="_blank" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rvfet&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="RVFET's coding activities" />
-  </a>
-</p>
-<!-- THROPIES -->
-<!-- DISABLED FOR NOW.
-<p align="center">
-  <a href="https://rvfet.com" target="_blank" align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=rvfet&theme=alduin&no-bg=true&no-frame=true&row=1&column=6" alt="Github Trophies" />
-  </a>
-</p>
--->
+<details align="center">
+  <summary>📒 Extended statistics</summary>
+  <!-- WAKATIME STATS -->
+  <p align="center">
+    <a href="https://rvfet.com" target="_blank" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rvfet&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="RVFET's coding activities" />
+    </a>
+  </p>
+  <!-- THROPIES -->
+  <p align="center">
+    <a href="https://rvfet.com" target="_blank" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=rvfet&theme=alduin&no-bg=true&no-frame=true&row=1&column=6" alt="Github Trophies" />
+    </a>
+  </p>
+</details>
