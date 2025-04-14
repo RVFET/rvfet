@@ -54,4 +54,12 @@
       <img src="https://github-profile-trophy.vercel.app/?username=rvfet&theme=alduin&no-bg=true&no-frame=true&row=1&column=6" alt="Github Trophies" />
     </a>
   </p>
+  <!-- PIE CHART -->
+  <p align="center">
+    <a href="https://rvfet.com" target="_blank" align="center">
+      <img src="https://wakatime.com/share/@rvfet/c04161a9-0613-4c29-8f98-e68cba20909f.svg" alt="RVFET's language activities" width="80%" />
+    </a>
+  </p>
+  <br/>
+  <p align="center">🏁 You reached the end!</p>
 </details>
