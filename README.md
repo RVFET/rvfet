@@ -55,11 +55,11 @@
     </a>
   </p>
   <!-- PIE CHART -->
-  <p align="center">
+<!--   <p align="center">
     <a href="https://rvfet.com" target="_blank" align="center">
       <img src="https://wakatime.com/share/@rvfet/c04161a9-0613-4c29-8f98-e68cba20909f.svg" alt="RVFET's language activities" width="80%" />
     </a>
-  </p>
+  </p> -->
   <br/>
   <p align="center">🏁 You reached the end!</p>
 </details>
