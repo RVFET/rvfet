@@ -41,7 +41,7 @@
 </p>
 
 <details align="center">
-  <summary>📒 Extended statistics</summary>
+  <summary>📒 Extended statistics (for last 12 months)</summary>
   <!-- WAKATIME STATS -->
   <p align="center">
     <a href="https://rvfet.com" target="_blank" align="center">
