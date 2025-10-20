@@ -28,7 +28,7 @@
 <br/>
 <p align="center">
   <a href="https://rvfet.com" target="_blank" align="center">
-    <img src="https://skillicons.dev/icons?i=debian,go,python,rust,js,react,svelte,mongodb,rabbitmq,redis,elasticsearch,postgres,bash,figma,git,cloudflare&perline=8&theme=dark" alt="programming languages and tools that I have strong background on" />
+    <img src="https://skillicons.dev/icons?i=arch,debian,python,go,rust,js,react,svelte,mongodb,docker,rabbitmq,redis,elasticsearch,postgres,bash,figma,git,cloudflare&perline=9&theme=dark" alt="programming languages and tools that I have strong background on" />
   </a>
 </p>
 
