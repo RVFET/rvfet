@@ -7,12 +7,12 @@
   </g>
   <g id="marquee">
     <use xlink:href="#strip-content" x="0" />
-    <use xlink:href="#strip-content" x="2500" />
+    <use xlink:href="#strip-content" x="3200" />
     <animateTransform
       attributeName="transform"
       type="translate"
       from="0 0"
-      to="-2500 0"
+      to="-3200 0"
       dur="20s"
       repeatCount="indefinite" />
   </g>
