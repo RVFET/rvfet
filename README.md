@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img src="https://rvfet.com/readme.svg" />
+<img src="https://rvfet.com/readme.svg?force=refetch" />
 
 <!-- PROFILE STATS -->
 <!-- <p align="center">
