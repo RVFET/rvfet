@@ -1,5 +1,7 @@
 <!-- HEADER -->
-<img src="https://rvfet.com/readme.svg?force=refetch" />
+<a href="https://rvfet.com/readme.svg" title="Generated periodically and automatically">
+  <img src="https://rvfet.com/readme.svg?force=refetch" />
+</a>
 
 <!-- PROFILE STATS -->
 <!-- <p align="center">
