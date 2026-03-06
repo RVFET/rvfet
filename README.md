@@ -1,13 +1,13 @@
 <!-- HEADER -->
-<a href="https://rvfet.com/" title="Generated periodically and automatically" target="_blank">
-  <img src="https://rvfet.com/readme/readme.svg" />
+<a href="https://rvfet.com/" title="Generated periodically and automatically">
+  <img src="https://rvfet.com/readme/readme.svg#" />
 </a>
 
 <br/>
 <br/>
 
 <p align="center">
-  <a href="https://rvfet.com/resume" target="_blank">
+  <a href="https://rvfet.com/resume">
     <img src="https://rvfet.com/readme/resume-button.svg" />
   </a>
   <br/>
