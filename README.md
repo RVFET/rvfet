@@ -1,7 +1,18 @@
 <!-- HEADER -->
-<a href="https://rvfet.com/readme.svg" title="Generated periodically and automatically">
-  <img src="https://rvfet.com/readme.svg?force=refetch" />
+<a href="https://rvfet.com/" title="Generated periodically and automatically" target="_blank">
+  <img src="https://rvfet.com/readme/readme.svg" />
 </a>
+
+<br/>
+<br/>
+
+<p align="center">
+  <a href="https://rvfet.com/resume" target="_blank">
+    <img src="https://rvfet.com/readme/resume-button.svg" />
+  </a>
+  <br/>
+  <i>Open for relocation in DACH region</i>
+</p>
 
 <!-- PROFILE STATS -->
 <!-- <p align="center">
@@ -21,6 +32,7 @@
     <img src="https://skillicons.dev/icons?i=arch,debian,python,go,rust,js,react,svelte,mongodb,docker,rabbitmq,redis,elasticsearch,postgres,bash,figma,git,cloudflare&perline=9&theme=dark" alt="programming languages and tools that I have strong background on" />
   </a>
 </p> -->
+
 
 <!-- <h2 align="center">Statistics</h2> -->
 <!-- DEV STATS -->
